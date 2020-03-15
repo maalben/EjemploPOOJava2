@@ -1,0 +1,2 @@
+# EjemploPOOJava2
+Realizar un programa que permita calcular el salario final de un empleado, teniendo en cuenta sus horas trabajadas y valor de cada hora de trabajo. Deberá calcular la salud por el 4% y la pensión por el 3%. Tenga en cuenta que si el salario final es superior o igual a $1.000.000 deberá descontar el 1% para las personas infectadas por el Coronavirus, de lo contrario deberá aumentarle el 2% sobre el salario final.
